@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC11_2 Pin=VD3-1
+Removed Pin From Net: NetName=GND Pin=VD3-2
+Removed Pin From Net: NetName=NetC11_2 Pin=VD4-1
+Removed Pin From Net: NetName=GND Pin=VD4-2
+Removed Member From Class: ClassName=Sheet1 Member=VD3
+Removed Member From Class: ClassName=Sheet1 Member=VD4
+Added Member To Class: ClassName=Sheet1 Member=Component X? สา
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Room: Name=Sheet1

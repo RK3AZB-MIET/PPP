@@ -1,0 +1,15 @@
+Added Component: Designator=X?(SMT_CONTACT_TYPE_3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X?(SMT_CONTACT_TYPE_3)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetX?_1 Pin=X?-1
+Added Pin To Net: NetName=NetX?_1 Pin=X?-1
+Added Pin To Net: NetName=NetX?_1 Pin=X?-1
+Added Pin To Net: NetName=NetX?_1 Pin=XT?-1
+Added Net: Name=NetX?_1
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Room: Name=Sheet1

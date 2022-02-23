@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=XT1 Old Footprint=DG25C-B-02P New Footprint=DG128-5.0-02P-14
+Change Component Comment : Designator=XT1 Old Comment= New Comment=DG128-5.0-02P-14
+Added Member To Class: ClassName=Sheet1 Member=Component C3 10
+Added Room: Name=Sheet1

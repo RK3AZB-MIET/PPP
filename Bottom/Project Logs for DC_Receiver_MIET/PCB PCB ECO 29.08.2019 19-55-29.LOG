@@ -1,0 +1,209 @@
+Removed Member From Class: ClassName=Sheet1 Member=C?
+Removed Member From Class: ClassName=Sheet1 Member=VT?
+Change Component Designator: OldDesignator=HL? NewDesignator=HL1
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=L? NewDesignator=L2
+Change Component Designator: OldDesignator=L? NewDesignator=L3
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=TP? NewDesignator=TP4
+Change Component Designator: OldDesignator=VD? NewDesignator=VD1
+Change Component Designator: OldDesignator=VD? NewDesignator=VD2
+Change Component Designator: OldDesignator=VT? NewDesignator=VT5
+Change Component Designator: OldDesignator=XS? NewDesignator=XS1
+Added Component: Designator=C1(ส10-17ม)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(ส10-17ม)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(ส10-17ม)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(ส10-17ม)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(ส10-17ม)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C6(ส10-17ม)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C7(ส10-17ม)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C8(ส10-17ม)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C9(ส10-17ม)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C10(ส10-17ม)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C11(ส10-17ม)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C12(ส10-17ม)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C13(ส10-17ม)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(ั1-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(ั1-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(ั1-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(ั1-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(ั1-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(ั1-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(ั1-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(ั1-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(ั1-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R11(WH148)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP1(Test_point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP2(Test_point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP3(Test_point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VT1(สา-26)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VT2(สา-26)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VT3(สา-26)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VT4(สา-26)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VT6(สา-26)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XP1(PLS-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XP2(PLS-2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=L2-3
+Added Pin To Net: NetName=GND Pin=L2-5
+Added Pin To Net: NetName=GND Pin=L3-3
+Added Pin To Net: NetName=GND Pin=L3-5
+Added Pin To Net: NetName=GND Pin=R5-3
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=VT2-3
+Added Pin To Net: NetName=GND Pin=VT3-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C5-2
+Added Pin To Net: NetName=NetC1_2 Pin=L2-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R3-1
+Added Pin To Net: NetName=NetC2_1 Pin=R5-1
+Added Pin To Net: NetName=NetC2_1 Pin=VT4-3
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R5-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R6-2
+Added Pin To Net: NetName=NetC3_2 Pin=VT3-1
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=C7-1
+Added Pin To Net: NetName=NetC4_1 Pin=L1-2
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=R7-2
+Added Pin To Net: NetName=NetC4_2 Pin=R8-2
+Added Pin To Net: NetName=NetC4_2 Pin=VT5-1
+Added Pin To Net: NetName=NetC4_2 Pin=VT5-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=R6-1
+Added Pin To Net: NetName=NetC6_1 Pin=VT1-2
+Added Pin To Net: NetName=NetC6_1 Pin=VT2-2
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=L3-4
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=L1-1
+Added Pin To Net: NetName=NetC8_2 Pin=VD1-1
+Added Pin To Net: NetName=NetC8_2 Pin=VD2-2
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=L3-1
+Added Pin To Net: NetName=NetC9_1 Pin=VT6-2
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=C11-1
+Added Pin To Net: NetName=NetC9_2 Pin=R9-1
+Added Pin To Net: NetName=NetC9_2 Pin=VT6-3
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=R9-2
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=R10-2
+Added Pin To Net: NetName=NetC13_1 Pin=VT6-1
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetL2_4 Pin=L2-4
+Added Pin To Net: NetName=NetL2_4 Pin=VD1-2
+Added Pin To Net: NetName=NetL2_4 Pin=VD2-1
+Added Net: Name=NetL2_4
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Pin To Net: NetName=NetR1_1 Pin=VT1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=VT2-1
+Added Pin To Net: NetName=NetR2_1 Pin=VT3-3
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=VT4-1
+Added Pin To Net: NetName=NetR4_1 Pin=VT5-3
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=VT4-2
+Added Net: Name=NetR7_1
+Added Member To Class: ClassName=Sheet1 Member=Component C1 1000
+Added Member To Class: ClassName=Sheet1 Member=Component C2 1000
+Added Member To Class: ClassName=Sheet1 Member=Component C3 1000
+Added Member To Class: ClassName=Sheet1 Member=Component C4 1000
+Added Member To Class: ClassName=Sheet1 Member=Component C5 1000
+Added Member To Class: ClassName=Sheet1 Member=Component C6 1000
+Added Member To Class: ClassName=Sheet1 Member=Component C7 1000
+Added Member To Class: ClassName=Sheet1 Member=Component C8 1000
+Added Member To Class: ClassName=Sheet1 Member=Component C9 1000
+Added Member To Class: ClassName=Sheet1 Member=Component C10 1000
+Added Member To Class: ClassName=Sheet1 Member=Component C11 1000
+Added Member To Class: ClassName=Sheet1 Member=Component C12 1000
+Added Member To Class: ClassName=Sheet1 Member=Component C13 1000
+Added Member To Class: ClassName=Sheet1 Member=Component L2 Trim_coil_2
+Added Member To Class: ClassName=Sheet1 Member=Component L3 Trim_coil_2
+Added Member To Class: ClassName=Sheet1 Member=Component R1 ? ฮ์
+Added Member To Class: ClassName=Sheet1 Member=Component R2 ? ฮ์
+Added Member To Class: ClassName=Sheet1 Member=Component R3 ? ฮ์
+Added Member To Class: ClassName=Sheet1 Member=Component R4 ? ฮ์
+Added Member To Class: ClassName=Sheet1 Member=Component R5 WH148
+Added Member To Class: ClassName=Sheet1 Member=Component R6 ? ฮ์
+Added Member To Class: ClassName=Sheet1 Member=Component R7 ? ฮ์
+Added Member To Class: ClassName=Sheet1 Member=Component R8 ? ฮ์
+Added Member To Class: ClassName=Sheet1 Member=Component R9 ? ฮ์
+Added Member To Class: ClassName=Sheet1 Member=Component R10 ? ฮ์
+Added Member To Class: ClassName=Sheet1 Member=Component R11 WH148
+Added Member To Class: ClassName=Sheet1 Member=Component TP1 Test_Point_1
+Added Member To Class: ClassName=Sheet1 Member=Component TP2 Test_Point_1
+Added Member To Class: ClassName=Sheet1 Member=Component TP3 Test_Point_1
+Added Member To Class: ClassName=Sheet1 Member=Component VD2 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component VT1 BC547
+Added Member To Class: ClassName=Sheet1 Member=Component VT2 BC557
+Added Member To Class: ClassName=Sheet1 Member=Component VT3 BC547
+Added Member To Class: ClassName=Sheet1 Member=Component VT4 BC547
+Added Member To Class: ClassName=Sheet1 Member=Component VT5 BC547
+Added Member To Class: ClassName=Sheet1 Member=Component VT6 BC557
+Added Member To Class: ClassName=Sheet1 Member=Component XP1 PLS-2
+Added Member To Class: ClassName=Sheet1 Member=Component XP2 PLS-2
+Added Room: Name=Sheet1

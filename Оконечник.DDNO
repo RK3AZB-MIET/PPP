@@ -1,0 +1,200 @@
+********************************************************************************
+***                       Micro-Cap 11.0.1.9 (64 bit)                        ***
+***                                                                          ***
+***                                                                          ***
+***                         Dynamic DC of Оконечник                          ***
+***                           29.11.2021 16:32:23                            ***
+********************************************************************************
+
+*****************************************************
+***                Temperature=27                 ***
+*****************************************************
+
+Temperature=27
+
+DC Operating Point Voltages
+===========================
+Node         Voltage  Node         Voltage  Node         Voltage 
+B             1.862   2             2.705   3             7.576  
+A             3.471   5           637.854m  VCC           9.000  
+PHONE         0.000   IN            0.000  
+
+
+Operating Point for Devices of Type Bipolar Junction Transistors NPN
+====================================================================
+Instance:                Q3             Q4
+Using model:         BC547C         BC547C
+
+Beta Terms:
+BETADC             429.579        424.258 
+BETAAC             369.011        456.506 
+
+Capacitance Terms:
+CPI                522.618p        42.661p
+CMU                  3.483p         4.652p
+CBX                  0.000          0.000 
+CJS                  0.000          0.000 
+
+Conductance Terms:
+GM                 969.053m        34.730m
+
+Current Terms:
+IB                  68.512u         2.067u
+IC                  29.431m       876.996u
+
+Resistance Terms:
+RPI                380.795         13.144K
+RX                   0.000          0.000 
+RO                   3.537K       115.421K
+
+Voltage Terms:
+VBE                766.160m       637.854m
+VBC                 -4.105         -1.224 
+VCE                  4.871          1.862 
+
+Frequency Terms:
+FT               293.156MEG     116.829MEG
+
+Power DC Terms:
+PD                 143.403m         1.634m
+PS                   0.000          0.000 
+
+DC Pin Currents:
+Ib                  68.512u         2.067u
+Ic                  29.431m       876.996u
+Ie                 -29.500m      -879.063u
+Is                   0.000          0.000 
+
+Condition:
+State                   LIN            LIN
+
+Device Variables:
+area                 1.000          1.000 
+vbe                  0.000          0.000 
+vce                  0.000          0.000 
+
+
+
+Operating Point for Devices of Type Bipolar Junction Transistors PNP
+====================================================================
+Instance:                Q2
+Using model:         BC557C
+
+Beta Terms:
+BETADC             407.549 
+BETAAC             353.511 
+
+Capacitance Terms:
+CPI                466.943p
+CMU                  4.608p
+CBX                  0.000 
+CJS                  0.000 
+
+Conductance Terms:
+GM                 905.304m
+
+Current Terms:
+IB                  72.201u
+IC                  29.426m
+
+Resistance Terms:
+RPI                390.488 
+RX                   0.000 
+RO                   3.462K
+
+Voltage Terms:
+VBE               -843.430m
+VBC                  1.862 
+VCE                 -2.705 
+
+Frequency Terms:
+FT               305.553MEG
+
+Power DC Terms:
+PD                  79.656m
+PS                   0.000 
+
+DC Pin Currents:
+Ib                 -72.201u
+Ic                 -29.426m
+Ie                  29.498m
+Is                   0.000 
+
+Condition:
+State                   LIN
+
+Device Variables:
+area                 1.000 
+vbe                  0.000 
+vce                  0.000 
+
+
+
+Operating Point for Devices of Type Resistor
+============================================
+Instance:                 R1             R2             R3             R4
+V                     1.610          4.105         -1.424          0.000 
+Power DC Terms:
+PD                    1.295m         3.585m        43.163m         0.000 
+
+DC Pin Currents:
+Ir                  804.795u       873.307u       -30.305m         0.000 
+
+Device Variables:
+tc1                   0.000          0.000          0.000          0.000 
+tc2                   0.000          0.000          0.000          0.000 
+
+
+Instance:                 R5          V2.RS
+V                     2.067          0.000 
+Power DC Terms:
+PD                    4.273u         0.000 
+
+DC Pin Currents:
+Ir                    2.067u         0.000 
+
+Device Variables:
+tc1                   0.000          0.000 
+tc2                   0.000          0.000 
+
+
+
+Operating Point for Devices of Type Capacitor
+=============================================
+Instance:                 C1             C2             C3
+V                    -7.576         -2.705        637.854m
+Power DC Terms:
+PS                    0.000          0.000          0.000 
+
+DC Pin Currents:
+Ic                    0.000          0.000          0.000 
+
+Device Variables:
+ic                    0.000          0.000          0.000 
+
+
+
+Operating Point for Devices of Type Sine Source
+===============================================
+Instance:                 V2
+Using model:         GENERAL
+V                     0.000 
+Power DC Terms:
+PG                    0.000 
+
+DC Pin Currents:
+ISource               0.000 
+
+
+
+Operating Point for Devices of Type SPICE Source
+================================================
+Instance:                V1
+V                    9.000 
+Power DC Terms:
+PG                 272.741m
+
+DC Pin Currents:
+ISource            -30.305m
+
+

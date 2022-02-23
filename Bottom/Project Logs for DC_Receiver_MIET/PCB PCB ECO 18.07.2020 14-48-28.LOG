@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=NetC16_2 Pin=X?-1
+Removed Pin From Net: NetName=NetC16_2 Pin=X?-1
+Change Component Footprint: Designator=C8 Old Footprint=Ê50-35 New Footprint=Ê50-35 - 8x11.5
+Change Component Footprint: Designator=C17 Old Footprint=Ê50-35 New Footprint=Ê50-35 - 8x11.5
+Change Component Footprint: Designator=C18 Old Footprint=Ê50-35 New Footprint=Ê50-35 - 8x11.5
+Change Component Footprint: Designator=C22 Old Footprint=Ê50-35 New Footprint=Ê50-35 - 8x11.5
+Change Component Footprint: Designator=C23 Old Footprint=Ê50-35 New Footprint=Ê50-35 - 8x11.5
+Change Component Comment : Designator=C17 Old Comment=47לך New Comment=10 לך
+Change Component Comment : Designator=C22 Old Comment=470לך New Comment=10 לך
+Change Component Comment : Designator=C23 Old Comment=470לך New Comment=10 לך
+Added Component: Designator=C?(Ê10-17ֱ)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC16_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=X?-1
+Added Pin To Net: NetName=NetC?_1 Pin=X?-1
+Added Net: Name=NetC?_1
+Added Member To Class: ClassName=Sheet1 Member=Component C7 0.1 לך
+Added Member To Class: ClassName=Sheet1 Member=Component C8 10 לך
+Added Member To Class: ClassName=Sheet1 Member=Component C10 0.1 לך
+Added Member To Class: ClassName=Sheet1 Member=Component C14 330
+Added Member To Class: ClassName=Sheet1 Member=Component C16 0.01 לך
+Added Member To Class: ClassName=Sheet1 Member=Component C17 10 לך
+Added Member To Class: ClassName=Sheet1 Member=Component C18 10 לך
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1 לך
+Added Member To Class: ClassName=Sheet1 Member=Component L2 Trim_coil_2
+Added Member To Class: ClassName=Sheet1 Member=Component R3 1ך־ל
+Added Member To Class: ClassName=Sheet1 Member=Component R6 100 ך־ל
+Added Member To Class: ClassName=Sheet1 Member=Component R7 20 ך־ל
+Added Member To Class: ClassName=Sheet1 Member=Component R11 2 ך־ל
+Added Member To Class: ClassName=Sheet1 Member=Component R15 470 ־ל
+Added Member To Class: ClassName=Sheet1 Member=Component VT2 BC557
+Added Member To Class: ClassName=Sheet1 Member=Component VT4 BC547
+Added Member To Class: ClassName=Sheet1 Member=Component VT6 BC547
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Room: Name=Sheet1

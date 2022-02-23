@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=SB? NewDesignator=SB1
+Change Component Designator: OldDesignator=VT? NewDesignator=VT1
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Change Component Designator: OldDesignator=X? NewDesignator=X2
+Change Component Designator: OldDesignator=X? NewDesignator=X3
+Change Component Designator: OldDesignator=X? NewDesignator=X4
+Change Component Designator: OldDesignator=X? NewDesignator=X5
+Change Component Designator: OldDesignator=X? NewDesignator=X6
+Change Component Designator: OldDesignator=XT? NewDesignator=XT1
+Change Component Designator: OldDesignator=ZQ? NewDesignator=ZQ1
+Change Net Name : Old Net Name=NetX?_1 New Net Name=NetX3_1
+Added Pin To Net: NetName=NetX1_1 Pin=X1-1
+Added Pin To Net: NetName=NetX1_1 Pin=X2-1
+Added Pin To Net: NetName=NetX1_1 Pin=X2-1
+Added Pin To Net: NetName=NetX1_1 Pin=XT1-2
+Added Net: Name=NetX1_1
+Added Member To Class: ClassName=Sheet1 Member=Component X1 SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X3 SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X4 SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X5 SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X6 SMT_Contact
+Added Room: Name=Sheet1

@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=XP? NewDesignator=XP3
+Added Component: Designator=VD5(DO-41)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=VD5-1
+Added Pin To Net: NetName=NetC11_2 Pin=VD5-2
+Added Member To Class: ClassName=Sheet1 Member=Component VD5 1N4007
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Room: Name=Sheet1

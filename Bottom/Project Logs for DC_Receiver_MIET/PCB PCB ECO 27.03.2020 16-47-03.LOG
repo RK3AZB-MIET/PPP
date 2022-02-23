@@ -1,0 +1,14 @@
+Added Component: Designator=HL?(GNL-3012ED)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(ั1-4)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=HL?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetHL?_2 Pin=HL?-2
+Added Pin To Net: NetName=NetHL?_2 Pin=R?-2
+Added Net: Name=NetHL?_2
+Added Member To Class: ClassName=Sheet1 Member=Component HL? GNL-3012ED
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1๊ฮ์
+Added Member To Class: ClassName=Sheet1 Member=Component VT6 BC547
+Added Member To Class: ClassName=Sheet1 Member=Component X? สา
+Added Room: Name=Sheet1

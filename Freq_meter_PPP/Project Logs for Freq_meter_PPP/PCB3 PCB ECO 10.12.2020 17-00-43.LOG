@@ -1,0 +1,9 @@
+Added Component: Designator=X?(KT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X?(KT)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=X?-1
+Added Pin To Net: NetName=NetC1_2 Pin=X?-1
+Added Member To Class: ClassName=Sheet3 Member=Component X? สา
+Added Member To Class: ClassName=Sheet3 Member=Component X? สา
+Added Room: Name=Sheet3

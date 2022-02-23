@@ -1,0 +1,16 @@
+Change Component Comment : Designator=C18 Old Comment=10 לך New Comment=100 לך
+Added Component: Designator=XP?(DS-261)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=XP?-1
+Added Pin To Net: NetName=GND Pin=XP?-3
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component XP? DS-261B
+Added Room: Name=Sheet1

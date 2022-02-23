@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetR4_2 Pin=R4-3
+Removed Pin From Net: NetName=NetR4_2 Pin=R5-1
+Added Component: Designator=X?(SMT_CONTACT_TYPE_1)
+Added Pin To Net: NetName=NetR4_2 Pin=X?-1
+Added Pin To Net: NetName=NetR4_2 Pin=X?-1
+Added Pin To Net: NetName=NetR4_3 Pin=R4-3
+Added Pin To Net: NetName=NetR4_3 Pin=R5-1
+Added Net: Name=NetR4_3
+Added Member To Class: ClassName=Sheet2 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet2 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet2 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet2 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet2 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet2 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet2 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet2 Member=Component X? SMT_Contact
+Added Room: Name=Sheet2

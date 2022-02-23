@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetX1_1 Pin=X2-1
+Removed Pin From Net: NetName=NetX1_1 Pin=X2-1
+Added Pin To Net: NetName=NetX1_1 Pin=X6-1
+Added Pin To Net: NetName=NetX1_1 Pin=X6-1
+Added Pin To Net: NetName=NetX4_1 Pin=X4-1
+Added Pin To Net: NetName=NetX4_1 Pin=X5-1
+Added Pin To Net: NetName=NetX4_1 Pin=X5-1
+Added Pin To Net: NetName=NetX4_1 Pin=XT1-1
+Added Net: Name=NetX4_1
+Added Member To Class: ClassName=Sheet1 Member=Component X2 SMT_Contact

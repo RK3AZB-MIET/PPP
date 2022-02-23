@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=C8 Old Footprint=Ê50-35 - 8x11.5 New Footprint=Ê50-35
+Change Component Footprint: Designator=C17 Old Footprint=Ê50-35 - 8x11.5 New Footprint=Ê50-35
+Change Component Footprint: Designator=C18 Old Footprint=Ê50-35 - 8x11.5 New Footprint=Ê50-35
+Change Component Footprint: Designator=C22 Old Footprint=Ê50-35 - 8x11.5 New Footprint=Ê50-35
+Change Component Footprint: Designator=C23 Old Footprint=Ê50-35 - 8x11.5 New Footprint=Ê50-35
+Change Component Comment : Designator=C17 Old Comment=10 ìê New Comment=47ìê
+Change Component Comment : Designator=C22 Old Comment=10 ìê New Comment=470 ìê
+Change Component Comment : Designator=C23 Old Comment=10 ìê New Comment=470 ìê
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Member To Class: ClassName=Sheet1 Member=Component X? SMT_Contact
+Added Room: Name=Sheet1

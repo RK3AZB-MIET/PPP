@@ -1,0 +1,32 @@
+Added Component: Designator=R?(WH148R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(WH148R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(WH148R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X?(SMT_CONTACT_TYPE_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X?(SMT_CONTACT_TYPE_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X?(SMT_CONTACT_TYPE_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X?(SMT_CONTACT_TYPE_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X?(SMT_CONTACT_TYPE_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X?(SMT_CONTACT_TYPE_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-3
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=X?-1
+Added Pin To Net: NetName=NetR?_2 Pin=X?-1
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetR?_3 Pin=R?-3
+Added Pin To Net: NetName=NetR?_3 Pin=X?-1
+Added Pin To Net: NetName=NetR?_3 Pin=X?-1
+Added Net: Name=NetR?_3
+Added Class: Name=Sheet2
+Added Room: Name=Sheet2

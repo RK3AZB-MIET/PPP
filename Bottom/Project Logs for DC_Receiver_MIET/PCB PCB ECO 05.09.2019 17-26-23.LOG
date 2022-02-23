@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=C15 NewDesignator=C16
+Change Component Designator: OldDesignator=VT? NewDesignator=VT1
+Change Component Designator: OldDesignator=VT? NewDesignator=VT2
+Change Component Designator: OldDesignator=VT? NewDesignator=VT3
+Change Component Designator: OldDesignator=VT? NewDesignator=VT4
+Change Component Designator: OldDesignator=VT? NewDesignator=VT5
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=R15-2
+Added Pin To Net: NetName=NetC16_2 Pin=VT6-2
+Added Net: Name=NetC16_2
+Added Member To Class: ClassName=Sheet1 Member=Component C16 0,047לך
+Added Member To Class: ClassName=Sheet1 Member=Component VT1 BC547
+Added Member To Class: ClassName=Sheet1 Member=Component VT3 BC557
+Added Member To Class: ClassName=Sheet1 Member=Component VT4 BC547
+Added Member To Class: ClassName=Sheet1 Member=Component VT5 BC547

@@ -1,0 +1,10 @@
+Added Component: Designator=L?(trim_coil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XP?(DG308-2.54-02P)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Sheet1 Member=Component L? T50-6
+Added Member To Class: ClassName=Sheet1 Member=Component L? Trim_coil_2
+Added Member To Class: ClassName=Sheet1 Member=Component R? WH148
+Added Member To Class: ClassName=Sheet1 Member=Component R? WH148
+Added Member To Class: ClassName=Sheet1 Member=Component XP? DG308-2.54-02P
+Added Room: Name=Sheet1

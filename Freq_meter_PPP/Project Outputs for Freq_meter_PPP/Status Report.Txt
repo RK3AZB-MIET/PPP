@@ -1,0 +1,14 @@
+Source PCB Design Multiboard_Freq_meter.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Freq_meter_PPP.PrjPcb]
+   Generated File[Multiboard_Freq_meter.TXT]
+   Generated File[Multiboard_Freq_meter.LDP]
+   Generated File[Multiboard_Freq_meter.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:27:43 On 30.05.2021
