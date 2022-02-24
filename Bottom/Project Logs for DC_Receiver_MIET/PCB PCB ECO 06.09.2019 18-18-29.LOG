@@ -1,9 +1,0 @@
-Added Component: Designator=XP2(PLS-2)
-Add component. Clean all parameters for all variants
-Added Pin To Net: NetName=GND Pin=XP2-2
-Added Pin To Net: NetName=VCC Pin=DA1-3
-Added Pin To Net: NetName=VCC Pin=R2-1
-Added Pin To Net: NetName=VCC Pin=XP2-1
-Added Net: Name=VCC
-Added Member To Class: ClassName=Sheet1 Member=Component XP2 PLS-2
-Added Room: Name=Sheet1
